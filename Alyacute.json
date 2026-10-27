@@ -1,0 +1,51 @@
+
+{
+  "name": "Alya cute vlfor",
+  "description": "A purple ClearVision-inspired theme with Haimiya backgrounds",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Nam",
+      "id": "0"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#211a25"],
+    "BACKGROUND_SECONDARY": ["#19151d"],
+    "BACKGROUND_TERTIARY": ["#120f15"],
+    "BACKGROUND_FLOATING": ["#302638"],
+    "CHAT_BACKGROUND": ["#211a25"],
+    "HEADER_PRIMARY": ["#f4eafa"],
+    "HEADER_SECONDARY": ["#c8b6d0"],
+    "TEXT_NORMAL": ["#eee5f2"],
+    "TEXT_MUTED": ["#b6a8bd"],
+    "TEXT_LINK": ["#c58add"],
+    "INTERACTIVE_NORMAL": ["#d4b4e5"],
+    "INTERACTIVE_HOVER": ["#e0c3ef"],
+    "INTERACTIVE_ACTIVE": ["#a961b8"],
+    "BACKGROUND_MODIFIER_HOVER": ["#ffffff0f"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#a961b833"]
+  },
+  "rawColors": {
+    "BRAND_500": "#a961b8",
+    "BRAND_560": "#8d4a9e",
+    "BRAND_600": "#763b85",
+    "BRAND_700": "#51265c",
+    "PRIMARY_100": "#f4eafa",
+    "PRIMARY_300": "#c8b6d0",
+    "PRIMARY_500": "#302638",
+    "PRIMARY_600": "#211a25",
+    "PRIMARY_700": "#19151d",
+    "PRIMARY_800": "#120f15",
+    "BLUE_500": "#a961b8",
+    "GREEN_500": "#43b581",
+    "RED_500": "#982929",
+    "WHITE_500": "#f4eafa",
+    "BLACK_500": "#120f15"
+  },
+  "fonts": {},
+  "plus": {
+    "version": 0
+  },
+  "spec": 2
+}
